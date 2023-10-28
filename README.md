@@ -8,7 +8,7 @@ We are excited to have you on board for the upcoming Ideathon. To ensure a seaml
 
 -GitHub Account: If you don't already have one, please create a GitHub account at https://github.com.
 
--Folder Setup: Set up a folder for your project on GitHub in the following repository: https://github.com/FG-AI4H/ideathon-riyadh.
+-Folder Setup: Use your team folder for your project on GitHub in the following repository: https://github.com/FG-AI4H/ideathon-riyadh.
 
 -Commit Regularly: Make sure to commit your changes regularly to track your progress effectively.
 
