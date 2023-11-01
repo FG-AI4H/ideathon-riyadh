@@ -7,7 +7,7 @@ Digital Health AI Innovation
 Mental Health
 
 ## Description
-Our AI program seamlessly integrates with cameras and mics in addiction clinics 
+Our AI program is called "Addimemory" and it seamlessly integrates with cameras and mics in addiction clinics 
 to detect behaviorious, facial expressions, body language and voice changes in each session 
 and actively differentiating the data obtained from each session 
 assisting the psychiatrist in tracking the patient’s progress. 
