@@ -12,3 +12,5 @@ Our "AI-Powered Organ Donation and Matching System" employs artificial intellige
 ## Team Members
 - Sara alnahari
 - Aisha aleid
+- ghalia alrudayan
+- athbah alabdulkarim
