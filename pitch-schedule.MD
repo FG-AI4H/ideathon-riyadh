@@ -12,6 +12,8 @@
 #### AI powered Organ Donation notification and matching system
 - Sara alnahari
 - Aisha aleid
+- ghalia alrudayan
+- athbah alabdulkarim
 ### Team-03 2:14-2:20
 #### Mental Health
 - Rama Alkhamis
